@@ -1,6 +1,8 @@
-<?php 
+<?php
 
-//require_once('examples/remove_menus.php');
+require_once('examples/remove_filter_example.php');
+
+require_once('examples/list_hooks.php');
 
 
 ?>
