@@ -5,6 +5,7 @@ function example_callback( $string ) {
 	$new_value = $string . " NEW!";
 	return $new_value;
 }
+
 add_filter( 'example_filter', 'example_callback' );
 
 // Then use apply_filters in your code when you want the filter to run
