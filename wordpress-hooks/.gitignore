@@ -14,6 +14,8 @@ logs/*
 *.sublime-workspace
 *.sublime-project
 
+# Default backup file
+*.rar
 
 # Assets
 wp-content/uploads/*
