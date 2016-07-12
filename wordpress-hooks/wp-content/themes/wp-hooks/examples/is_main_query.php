@@ -7,6 +7,7 @@ function only_run_in_main_loop( $content ) {
     }
         
 }
+
 add_filter( 'the_content', 'only_run_in_main_loop' );
 
 ?>
