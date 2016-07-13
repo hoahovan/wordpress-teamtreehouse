@@ -1,0 +1,21 @@
+.DS_Store
+
+
+# Private file
+wp-config.php
+
+# Logs file
+logs/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Default backup file
+*.rar
+
+# Assets
+wp-content/uploads/*
